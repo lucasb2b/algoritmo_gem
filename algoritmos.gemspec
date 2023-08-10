@@ -4,7 +4,7 @@ require_relative "lib/algoritmos/version"
 
 Gem::Specification.new do |spec|
   spec.name = "algoritmos"
-  spec.version = Algoritmos::VERSION
+  spec.version     = '0.1.2'
   spec.authors = ["Lucas Brito de Lima"]
   spec.email = ["lucasbritocientista@gmail.com"]
 
