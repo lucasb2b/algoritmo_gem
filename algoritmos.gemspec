@@ -4,7 +4,7 @@ require_relative "lib/algoritmos/version"
 
 Gem::Specification.new do |spec|
   spec.name = "algoritmos"
-  spec.version     = '0.1.2'
+  spec.version     = '0.1.2.1'
   spec.authors = ["Lucas Brito de Lima"]
   spec.email = ["lucasbritocientista@gmail.com"]
 
@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.description = "Iron maiden"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
-  spec.files = ['lib/BinarySearch.rb']
+  spec.files = ['lib/algoritmos.rb']
 
 
   # Specify which files should be added to the gem when it is released.
